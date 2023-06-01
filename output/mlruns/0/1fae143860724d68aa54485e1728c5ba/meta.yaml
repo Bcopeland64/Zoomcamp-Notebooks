@@ -1,0 +1,15 @@
+artifact_uri: file:///home/brandon/MLOps%20Zoomcamp/output/mlruns/0/1fae143860724d68aa54485e1728c5ba/artifacts
+end_time: 1685630216355
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1fae143860724d68aa54485e1728c5ba
+run_name: monumental-stoat-428
+run_uuid: 1fae143860724d68aa54485e1728c5ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685630216344
+status: 4
+tags: []
+user_id: brandon

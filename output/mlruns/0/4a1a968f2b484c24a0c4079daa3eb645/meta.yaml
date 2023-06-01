@@ -1,0 +1,15 @@
+artifact_uri: file:///home/brandon/MLOps%20Zoomcamp/output/mlruns/0/4a1a968f2b484c24a0c4079daa3eb645/artifacts
+end_time: 1685630479732
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a1a968f2b484c24a0c4079daa3eb645
+run_name: sneaky-shrew-119
+run_uuid: 4a1a968f2b484c24a0c4079daa3eb645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685630479720
+status: 4
+tags: []
+user_id: brandon

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/brandon/MLOps%20Zoomcamp/output/mlruns/0/f46411a6d7b549939b9f29387a9a56d7/artifacts
+end_time: 1685630377724
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f46411a6d7b549939b9f29387a9a56d7
+run_name: orderly-hawk-379
+run_uuid: f46411a6d7b549939b9f29387a9a56d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685630377715
+status: 4
+tags: []
+user_id: brandon

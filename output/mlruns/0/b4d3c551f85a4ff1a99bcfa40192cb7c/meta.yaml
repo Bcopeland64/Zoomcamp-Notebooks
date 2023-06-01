@@ -1,0 +1,15 @@
+artifact_uri: file:///home/brandon/MLOps%20Zoomcamp/output/mlruns/0/b4d3c551f85a4ff1a99bcfa40192cb7c/artifacts
+end_time: 1685630289695
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4d3c551f85a4ff1a99bcfa40192cb7c
+run_name: dapper-tern-604
+run_uuid: b4d3c551f85a4ff1a99bcfa40192cb7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685630289685
+status: 4
+tags: []
+user_id: brandon

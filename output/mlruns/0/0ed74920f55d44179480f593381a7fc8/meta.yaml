@@ -1,0 +1,15 @@
+artifact_uri: file:///home/brandon/MLOps%20Zoomcamp/output/mlruns/0/0ed74920f55d44179480f593381a7fc8/artifacts
+end_time: 1685630577049
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ed74920f55d44179480f593381a7fc8
+run_name: gregarious-loon-146
+run_uuid: 0ed74920f55d44179480f593381a7fc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685630577039
+status: 4
+tags: []
+user_id: brandon

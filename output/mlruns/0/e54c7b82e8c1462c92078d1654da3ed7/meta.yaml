@@ -1,0 +1,15 @@
+artifact_uri: file:///home/brandon/MLOps%20Zoomcamp/output/mlruns/0/e54c7b82e8c1462c92078d1654da3ed7/artifacts
+end_time: 1685630118688
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e54c7b82e8c1462c92078d1654da3ed7
+run_name: bald-gull-695
+run_uuid: e54c7b82e8c1462c92078d1654da3ed7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685630118677
+status: 4
+tags: []
+user_id: brandon

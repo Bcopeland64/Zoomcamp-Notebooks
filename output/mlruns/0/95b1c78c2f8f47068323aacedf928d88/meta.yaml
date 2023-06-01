@@ -1,0 +1,15 @@
+artifact_uri: file:///home/brandon/MLOps%20Zoomcamp/output/mlruns/0/95b1c78c2f8f47068323aacedf928d88/artifacts
+end_time: 1685630490592
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95b1c78c2f8f47068323aacedf928d88
+run_name: delicate-fowl-561
+run_uuid: 95b1c78c2f8f47068323aacedf928d88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685630490578
+status: 4
+tags: []
+user_id: brandon
